@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Weather Application
 
 🌤️ Weather Data Web Application
 A dynamic weather application that fetches real-time weather data from APIs and displays current conditions, temperature, and comprehensive meteorological information. Features automatic location detection and manual location search with an intuitive, responsive interface.
